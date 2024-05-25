@@ -1,11 +1,11 @@
 body{
-     background-color: pink;
+     background-color: rgb(255, 84, 53);
 }
 #title{
     text-align: center;
-    background-color: rgb(255, 224, 86);
+    background-color: rgb(248, 208, 27);
 }
 #og{
-    background-color: rgb(255, 224, 86);
+    background-color: rgb(248, 208, 27);
     font-size: 22px;
 }
